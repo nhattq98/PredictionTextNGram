@@ -40,5 +40,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation("com.github.satyan:sugar:1.3")
+    implementation("com.github.satyan:sugar:1.3.1")
 }
